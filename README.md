@@ -1,26 +1,31 @@
 <!-- Header -->
-<p align="center">
+<h1 align="center">Hi 👋, I'm Miraç Deprem</h1>
+<h3 align="center">A Junior Backend Developer and Computer Engineer from Turkey 🇹🇷</h3>
 
-</p>
+<div align="center">
+  <img width="480" height="270" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miracdeprem">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.miracdeprem.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:mrcdprmm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mrcdprm">
-    <img src="https://komarev.com/ghpvc/?username=mrcdprm&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
-  </a>
-</p>
+<!-- Contact Links -->
+<h2 align="center">
+  <a href="https://github.com/mrcdprm">🐙 GitHub</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:mrcdprmm@gmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.miracdeprem.com">🌐 Website</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/miracdeprem">💼 LinkedIn</a>
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%AB+Computer+Engineer;%F0%9F%92%BB+Junior+Backend+Developer;%F0%9F%9A%80+.NET+%7C+C%23+%7C+SQL+Server;%F0%9F%A4%96+AI+%26+ML+Enthusiast" />
+  <img src="https://img.shields.io/badge/Backend-.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DB-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-LLM_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+---
+
+- 🌱 I’m currently working on **Scalable Backend Architectures** and **AI-Powered Platforms**.
+- 💼 I’m experienced in **.NET 8, C#, SQL Server, Python, and FastAPI**.
+- ⚡ Fun fact: Besides development, I have a massive interest in **Cybersecurity (Penetration Testing)**!
 
 ---
 
@@ -29,7 +34,6 @@
 ```yaml
 Name: Miraç Deprem
 Role: Junior Backend Developer
-Education: BSc Computer Engineering — Isparta Uygulamalı Bilimler Üniversitesi
+Education: BSc Computer Engineering (Graduated) — Isparta Uygulamalı Bilimler Üniversitesi
 Focus: Backend Architecture, AI/ML (LLM, RAG), Cybersecurity
-Location: Türkiye
-🎓 Computer Engineering Graduate from Isparta Uygulamalı Bilimler Üniversitesi🛠 Currently building: Quick Career, Cipher, and scalable backend architectures💼 Previously interned at: Aksiyon Bilişim (Software) & Çetin Group (IT/Network)🌐 Open to: Backend roles, AI integrations, and open-source collaborations⚒️ Tech StackCategoryTechnologiesLanguagesC#, Python, Go, PHP, SQLBackend.NET 8, ASP.NET Core, RESTful APIs, FastAPIFrontend & MobileReact, FlutterDatabaseSQL Server, MySQL, SQLite, Entity FrameworkAI / MLLLMs, RAG, Deep Learning (CNN, LSTM)Security & ToolsPenetration Testing, Git, Linux, Docker⭐ Featured Projects📄 Experience & Education#TitleDetails1BSc Computer EngineeringGraduated from Isparta Uygulamalı Bilimler Üniversitesi2Software Intern @ Aksiyon BilişimDeveloped DB architecture for pre-accounting software using PHP & MySQL3IT Intern @ Çetin GroupCorporate system and network management operations4High School @ Halit Narin MTALSpecialized in Information Technologies & Database Programming📊 GitHub Activity🇹🇷 HakkımdaIsparta Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum. Ağırlıklı olarak .NET 8, C# ve SQL Server teknolojilerinde ölçeklenebilir arka uç mimarileri geliştiriyorum. Modern backend sistemlerinin yanı sıra Yapay Zeka (LLM, RAG), derin öğrenme ve Siber Güvenlik (sızma testleri) alanlarına büyük ilgi duyuyor, bu alanlarda edindiğim yetkinlikleri projelerime entegre ederek değer üretmeyi hedefliyorum.
+Location: Turkey
