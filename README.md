@@ -28,7 +28,7 @@
 
 🎓 Computer Engineer, graduated from Isparta Uygulamalı Bilimler Üniversitesi.
 
-🛠 Main projects I'm building: Quick Career, Cipher, and various backend systems.
+🛠 Main projects I'm building: Cipher and various backend systems.
 
 💼 Past internships: Atia Yazılım (Software) & Çetin Group (IT/Network Management).
 
@@ -124,6 +124,6 @@
 ```yaml
 Name: Miraç Deprem
 Role: Junior Backend Developer
-Education: BSc Computer Engineering (Graduated) — Isparta Uygulamalı Bilimler Üniversitesi
-Focus: Backend Architecture, AI/ML (LLM, RAG), Cybersecurity
+Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
+Focus: Backend Architecture
 Location: Turkey
