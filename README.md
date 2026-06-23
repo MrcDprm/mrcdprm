@@ -66,36 +66,46 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Quick Career</h3>
+      <h3 align="center">📚 Deprem Book Store</h3>
       <p align="center">
-        <a href="https://github.com/mrcdprm/quick-career">
+        <a href="https://github.com/mrcdprm/Deprem">
           <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">AI-powered web platform offering CV analysis, ATS optimization, and LinkedIn job matching.</p>
-      <p align="center"><strong>FastAPI • React • AI Integration</strong></p>
+      <p align="center">An e-commerce web platform designed for book sales, developed using the MVC architecture.</p>
+      <p align="center"><strong>C# • ASP.NET MVC</strong></p>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 Cipher</h3>
+      <h3 align="center">🕵️ Casus Oyunu (Spy Game)</h3>
       <p align="center">
-        <a href="https://github.com/mrcdprm/cipher">
+        <a href="https://github.com/mrcdprm/casus-oyunu">
           <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">A secure instant messaging system featuring a hybrid P2P architecture and modern cryptographic infrastructure.</p>
-      <p align="center"><strong>Go • Flutter • Cryptography</strong></p>
+      <p align="center">A web-based interactive game application built with the MVC design pattern.</p>
+      <p align="center"><strong>C# • ASP.NET MVC</strong></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">🫀 Heart Disease Prediction Model</h3>
+    <td width="50%">
+      <h3 align="center">✅ ToDoApp Desktop</h3>
       <p align="center">
-        <a href="https://github.com/mrcdprm/heart-disease-prediction">
+        <a href="https://github.com/mrcdprm/ToDoApp-Desktop">
           <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">A hybrid medical machine learning project developed using Fuzzy Three-Valued Logic.</p>
-      <p align="center"><strong>Python • Streamlit • SQLite • Machine Learning</strong></p>
+      <p align="center">A cross-platform desktop task management application designed to enhance daily productivity.</p>
+      <p align="center"><strong>TypeScript</strong></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐺 Wolf Sheep Binaire</h3>
+      <p align="center">
+        <a href="https://github.com/mrcdprm/wolf-sheep-binaire">
+          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A logic-based simulation and algorithmic project demonstrating advanced programming concepts.</p>
+      <p align="center"><strong>TypeScript</strong></p>
     </td>
   </tr>
 </table>
