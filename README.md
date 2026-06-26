@@ -26,7 +26,7 @@
 
 ---
 
-🎓 Computer Engineer, graduated from Isparta Uygulamalı Bilimler Üniversitesi.
+🎓 Computer Engineer, graduated from Isparta University of Applied Sciences.
 
 🛠 Main projects I'm building: Cipher and various backend systems.
 
