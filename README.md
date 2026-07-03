@@ -122,7 +122,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Miraç Deprem
+Name: Mirac Deprem
 Role: Junior Backend Developer
 Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
 Focus: Backend Architecture
