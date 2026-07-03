@@ -30,7 +30,7 @@
 
 🛠 Main projects I'm building: Cipher and various backend systems.
 
-💼 Past internships: Atia Yazılım (Software) & Çetin Group (IT/Network Management).
+💼 Past internships: Atia Software (Software) & Çetin Group (IT/Network Management).
 
 🌐 Open to: Backend roles, AI integrations, and open-source contributions.
 
