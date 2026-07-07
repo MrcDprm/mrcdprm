@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Miraç Deprem</h1>
-<h3 align="center">A Junior Backend Developer and Computer Engineer from Turkey 🇹🇷</h3>
+<h1 align="center">Hi 👋, I'm Mirac Deprem</h1>
+<h3 align="center">A Junior Software Developer and Computer Engineer from Turkey 🇹🇷</h3>
 
 
 <!-- Contact Links -->
@@ -12,7 +12,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software-Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/DB-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-LLM_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 ---
 
-- 🌱 I’m currently working on **Scalable Backend Architectures** and **AI-Powered Platforms**.
+- 🌱 I’m currently working on **Software Development** and **AI-Powered Platforms**.
 - 💼 I’m experienced in **.NET 8, C#, SQL Server, Python, and FastAPI**.
 - ⚡ Fun fact: Besides development, I have a massive interest in **Cybersecurity (Penetration Testing)**!
 
@@ -28,38 +28,33 @@
 
 🎓 Computer Engineer, graduated from Isparta University of Applied Sciences.
 
-🛠 Main projects I'm building: Cipher and various backend systems.
+🛠 Main projects I'm building: Cipher and various software systems.
 
 💼 Past internships: Atia Software (Software) & Çetin Group (IT/Network Management).
 
-🌐 Open to: Backend roles, AI integrations, and open-source contributions.
+🌐 Open to: Software Development roles, AI integrations, and open-source contributions.
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks** <br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-**Databases** <br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-**AI, Machine Learning & Security** <br>
-<img src="https://img.shields.io/badge/LLMs_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF9900?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-
-**Tools & DevOps** <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF9900?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ## ⭐ Featured Projects
 
@@ -119,11 +114,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcdprm&theme=2077" height="180em" alt="Productive Time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrcdprm&theme=2077" height="180em" alt="Profile Details"/>
 </p>
+
 ## 🚀 About Me
 
 ```yaml
 Name: Mirac Deprem
-Role: Junior Backend Developer
+Role: Junior Software Developer
 Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
-Focus: Backend Architecture
+Focus: Software Development & AI
 Location: Turkey
