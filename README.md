@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Mirac Deprem</h1>
-<h3 align="center">A Junior Software Developer and Computer Engineer from Turkey 🇹🇷</h3>
+<h3 align="center">Junior Software Developer & Computer Engineer from Turkey 🇹🇷</h3>
 
 
 <!-- Contact Links -->
@@ -20,19 +20,18 @@
 
 ---
 
-- 🌱 I’m currently working on **Software Development** and **AI-Powered Platforms**.
-- 💼 I’m experienced in **.NET 8, C#, SQL Server, Python, and FastAPI**.
-- ⚡ Fun fact: Besides development, I have a massive interest in **Cybersecurity (Penetration Testing)**!
+- 🎓 Computer Engineering graduate, currently working as a junior software developer.
+- 💻 Day to day I build with C#, .NET 8, SQL Server, Python and FastAPI.
+- 🤖 Outside of work I tinker with small AI/ML and data projects.
+- 🔐 Also spend time on cybersecurity — mostly TryHackMe rooms and Kali Linux.
 
 ---
 
-🎓 Computer Engineer, graduated from Isparta University of Applied Sciences.
+🛠 Currently building **Cipher**, alongside a few smaller side projects.
 
-🛠 Main projects I'm building: Cipher and various software systems.
+💼 Interned at Atia Software (development) and Çetin Group (IT/network management).
 
-💼 Past internships: Atia Software (Software) & Çetin Group (IT/Network Management).
-
-🌐 Open to: Software Development roles, AI integrations, and open-source contributions.
+📬 Open to software development roles — backend, AI-adjacent work, or open-source collaboration.
 
 ## 🧰 Tech Stack
 
