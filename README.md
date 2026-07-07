@@ -121,4 +121,4 @@ Name: Mirac Deprem
 Role: Junior Software Developer
 Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
 Focus: Software Development & AI
-Location: Turkey
+Location: Istanbul, Turkey
