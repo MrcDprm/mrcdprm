@@ -6,7 +6,7 @@
 <!-- Contact Links -->
 <h2 align="center">
   <a href="https://github.com/mrcdprm">🐙 GitHub</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:mrcdprmm@gmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:mrcdprmm@hotmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
   <a href="https://www.miracdeprem.com">🌐 Website</a> &nbsp;&bull;&nbsp;
   <a href="https://www.linkedin.com/in/miracdeprem">💼 LinkedIn</a>
 </h2>
