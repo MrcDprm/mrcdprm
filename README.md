@@ -8,10 +8,10 @@
 
 <br><br>
 
-[![github](https://img.shields.io/badge/-0B2545?style=flat-square&logo=github&logoColor=EAEFF3)](https://github.com/mrcdprm)
-[![mail](https://img.shields.io/badge/-0B2545?style=flat-square&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
-[![site](https://img.shields.io/badge/-0B2545?style=flat-square&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
-[![linkedin](https://img.shields.io/badge/-0B2545?style=flat-square&logo=linkedin&logoColor=EAEFF3)](https://www.linkedin.com/in/miracdeprem)
+[![github](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=github&logoColor=EAEFF3)](https://github.com/mrcdprm)
+[![mail](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
+[![site](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem)
 
 </div>
 
