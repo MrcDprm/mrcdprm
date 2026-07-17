@@ -1,120 +1,160 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Mirac Deprem</h1>
-<h3 align="center">Junior Software Developer & Computer Engineer from Turkey 🇹🇷</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B2545,100:1B4A72&section=header" width="100%"/>
 
-<!-- Contact Links -->
-<h2 align="center">
-  <a href="https://github.com/mrcdprm">🐙 GitHub</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:mrcdprmm@hotmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.miracdeprem.com">🌐 Website</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/miracdeprem">💼 LinkedIn</a>
-</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3000&pause=1000&color=5FB4E5&center=true&vCenter=true&width=600&lines=Mirac+Deprem;Junior+Software+Developer;Computer+Engineer" alt="typing" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software-Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-LLM_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+<sub>Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences</sub>
 
----
+<br><br>
 
-- 🎓 Computer Engineering graduate, currently working as a junior software developer.
-- 💻 Day to day I build with C#, .NET 8, SQL Server, Python and FastAPI.
-- 🤖 Outside of work I tinker with small AI/ML and data projects.
-- 🔐 Also spend time on cybersecurity — mostly TryHackMe rooms and Kali Linux.
+[![github](https://img.shields.io/badge/-0B2545?style=flat-square&logo=github&logoColor=EAEFF3)](https://github.com/mrcdprm)
+[![mail](https://img.shields.io/badge/-0B2545?style=flat-square&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
+[![site](https://img.shields.io/badge/-0B2545?style=flat-square&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
+[![linkedin](https://img.shields.io/badge/-0B2545?style=flat-square&logo=linkedin&logoColor=EAEFF3)](https://www.linkedin.com/in/miracdeprem)
 
----
+</div>
 
-🛠 Currently building **Cipher**, alongside a few smaller side projects.
+<br>
 
-💼 Interned at Atia Software (development) and Çetin Group (IT/network management).
+<table width="100%">
+<tr><td>
 
-📬 Open to software development roles — backend, AI-adjacent work, or open-source collaboration.
+### 01 · About
 
-## 🧰 Tech Stack
+I build backend systems in C# and .NET, tinker with AI/ML and RAG pipelines on the side, and spend spare time on data-driven side projects. Currently working as a junior software developer, with my day-to-day split between C#, .NET 8, SQL Server, Python and FastAPI.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF9900?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-## ⭐ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Deprem Book Store</h3>
-      <p align="center">
-        <a href="https://github.com/mrcdprm/Deprem">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">An e-commerce web platform designed for book sales, developed using the MVC architecture.</p>
-      <p align="center"><strong>C# • ASP.NET MVC</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🕵️ Casus Oyunu (Spy Game)</h3>
-      <p align="center">
-        <a href="https://github.com/mrcdprm/casus-oyunu">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A web-based interactive game application built with the MVC design pattern.</p>
-      <p align="center"><strong>C# • ASP.NET MVC</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">✅ ToDoApp Desktop</h3>
-      <p align="center">
-        <a href="https://github.com/mrcdprm/ToDoApp-Desktop">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A cross-platform desktop task management application designed to enhance daily productivity.</p>
-      <p align="center"><strong>TypeScript</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐺 Wolf Sheep Binaire</h3>
-      <p align="center">
-        <a href="https://github.com/mrcdprm/wolf-sheep-binaire">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A logic-based simulation and algorithmic project demonstrating advanced programming concepts.</p>
-      <p align="center"><strong>TypeScript</strong></p>
-    </td>
-  </tr>
+</td></tr>
 </table>
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcdprm&theme=2077" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcdprm&theme=2077" height="180em" alt="Most Commited Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcdprm&theme=2077" height="180em" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcdprm&theme=2077" height="180em" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrcdprm&theme=2077" height="180em" alt="Profile Details"/>
-</p>
+<table width="100%">
+<tr><td>
 
-## 🚀 About Me
+### 02 · Currently
+
+&nbsp;&nbsp;**◆ Building** — [Cipher](#), a personal side project, alongside a few smaller ones
+&nbsp;&nbsp;**◆ Interned at** — Atia Software (development) & Çetin Group (IT / network management)
+&nbsp;&nbsp;**◆ Open to** — backend, AI-adjacent roles, and open-source collaboration
+
+</td></tr>
+</table>
+
+<br>
+
+### 03 · Stack
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-1B4A72?style=flat-square&logo=csharp&logoColor=EAEFF3)
+![.NET 8](https://img.shields.io/badge/.NET_8-1B4A72?style=flat-square&logo=dotnet&logoColor=EAEFF3)
+![Python](https://img.shields.io/badge/Python-1B4A72?style=flat-square&logo=python&logoColor=EAEFF3)
+![Go](https://img.shields.io/badge/Go-1B4A72?style=flat-square&logo=go&logoColor=EAEFF3)
+![PHP](https://img.shields.io/badge/PHP-1B4A72?style=flat-square&logo=php&logoColor=EAEFF3)
+
+</td>
+<td width="33%" valign="top">
+
+**Frameworks & data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-5FB4E5?style=flat-square&logo=fastapi&logoColor=0B2545)
+![React](https://img.shields.io/badge/React-5FB4E5?style=flat-square&logo=react&logoColor=0B2545)
+![Flutter](https://img.shields.io/badge/Flutter-5FB4E5?style=flat-square&logo=flutter&logoColor=0B2545)
+![SQL Server](https://img.shields.io/badge/SQL_Server-5FB4E5?style=flat-square&logo=microsoftsqlserver&logoColor=0B2545)
+![MySQL](https://img.shields.io/badge/MySQL-5FB4E5?style=flat-square&logo=mysql&logoColor=0B2545)
+![SQLite](https://img.shields.io/badge/SQLite-5FB4E5?style=flat-square&logo=sqlite&logoColor=0B2545)
+
+</td>
+<td width="33%" valign="top">
+
+**AI & tools**
+
+![LLM & RAG](https://img.shields.io/badge/LLM_%26_RAG-F2A65A?style=flat-square&logo=openai&logoColor=0B2545)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F2A65A?style=flat-square&logo=pytorch&logoColor=0B2545)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-F2A65A?style=flat-square&logo=tryhackme&logoColor=0B2545)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-F2A65A?style=flat-square&logo=kalilinux&logoColor=0B2545)
+![Git](https://img.shields.io/badge/Git-F2A65A?style=flat-square&logo=git&logoColor=0B2545)
+![Linux](https://img.shields.io/badge/Linux-F2A65A?style=flat-square&logo=linux&logoColor=0B2545)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 04 · Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📚 Deprem Book Store**
+<br>
+An e-commerce platform for book sales, built on the MVC architecture.
+<br>
+`C#` `ASP.NET MVC`
+<br>
+→ [github.com/mrcdprm/Deprem](https://github.com/mrcdprm/Deprem)
+
+</td>
+<td width="50%" valign="top">
+
+**🕵️ Casus Oyunu (Spy Game)**
+<br>
+A web-based interactive game application built with the MVC design pattern.
+<br>
+`C#` `ASP.NET MVC`
+<br>
+→ [github.com/mrcdprm/casus-oyunu](https://github.com/mrcdprm/casus-oyunu)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ ToDoApp Desktop**
+<br>
+A cross-platform desktop task manager built to sharpen daily productivity.
+<br>
+`TypeScript`
+<br>
+→ [github.com/mrcdprm/ToDoApp-Desktop](https://github.com/mrcdprm/ToDoApp-Desktop)
+
+</td>
+<td width="50%" valign="top">
+
+**🐺 Wolf Sheep Binaire**
+<br>
+A logic-based simulation exploring algorithmic decision rules.
+<br>
+`TypeScript`
+<br>
+→ [github.com/mrcdprm/wolf-sheep-binaire](https://github.com/mrcdprm/wolf-sheep-binaire)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 05 · Stats
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcdprm&theme=2077" height="180em" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcdprm&theme=2077" height="180em" alt="Most Commited Language"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcdprm&theme=2077" height="180em" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcdprm&theme=2077" height="180em" alt="Productive Time"/>
+</div>
+
+<br>
+
+### 06 · About Me
 
 ```yaml
 Name: Mirac Deprem
@@ -122,3 +162,10 @@ Role: Junior Software Developer
 Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
 Focus: Software Development & AI
 Location: Istanbul, Turkey
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B4A72,100:0B2545&section=footer" width="100%"/>
+
+</div>
