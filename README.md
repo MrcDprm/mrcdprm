@@ -154,7 +154,21 @@ A logic-based simulation exploring algorithmic decision rules.
 
 <br>
 
-### 06 · About Me
+### 06 · Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+### 07 · About Me
 
 ```yaml
 Name: Mirac Deprem
