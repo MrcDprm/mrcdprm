@@ -12,7 +12,7 @@
 [![mail](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
 [![site](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mrcdprm&color=5FB4E5&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <br>
