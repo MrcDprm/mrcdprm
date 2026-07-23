@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B2545,100:1B4A72&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3000&pause=1000&color=5FB4E5&center=true&vCenter=true&width=600&lines=Mirac+Deprem;Junior+Software+Developer;Computer+Engineer" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3000&pause=1000&color=5FB4E5&center=true&vCenter=true&width=600&lines=Mirac+Deprem;Software+Developer;Computer+Engineer" alt="typing" />
 
 <sub>Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences</sub>
 
