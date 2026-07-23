@@ -150,6 +150,8 @@ A logic-based simulation exploring algorithmic decision rules.
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcdprm&theme=2077" height="180em" alt="Repos Per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcdprm&theme=2077" height="180em" alt="Productive Time"/>
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=mrcdprm&background=0B2545&ring=5FB4E5&fire=F2A65A&currStreakLabel=5FB4E5&sideLabels=EAEFF3&currStreakNum=EAEFF3&sideNums=EAEFF3&dates=EAEFF3&border=1B4A72&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br>
