@@ -8,10 +8,10 @@
 
 <br><br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem) <br>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem) 
 [![github](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=github&logoColor=EAEFF3)](https://github.com/mrcdprm)
 [![mail](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
-[![site](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com) <br>
+[![site](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=mrcdprm&color=5FB4E5&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
