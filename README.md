@@ -2,17 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B2545,100:1B4A72&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3000&pause=1000&color=5FB4E5&center=true&vCenter=true&width=600&lines=Mirac+Deprem;Software+Developer;Computer+Engineer" alt="typing" />
+<h1>Mirac Deprem</h1>
 
-<sub>Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences</sub>
+<b>Software Developer &nbsp;·&nbsp; Web, Desktop & Mobile </b>
+
+<br>
+
+<sub>Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences (2026)</sub>
 
 <br><br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem) 
-[![github](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=github&logoColor=EAEFF3)](https://github.com/mrcdprm)
-[![mail](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
-[![site](https://img.shields.io/badge/-0B2545?style=for-the-badge&logo=firefox&logoColor=EAEFF3)](https://www.miracdeprem.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem)
+[![Website](https://img.shields.io/badge/miracdeprem.com-0B2545?style=for-the-badge&logo=googlechrome&logoColor=F2A65A)](https://www.miracdeprem.com)
+[![Email](https://img.shields.io/badge/Email-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
+[![CV](https://img.shields.io/badge/CV-0B2545?style=for-the-badge&logo=readdotcv&logoColor=EAEFF3)](https://www.miracdeprem.com/cv)
 ![Profile Views](https://komarev.com/ghpvc/?username=mrcdprm&color=5FB4E5&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <br>
@@ -22,7 +27,9 @@
 
 ### 01 · About
 
-I build backend systems in C# and .NET, tinker with AI/ML and RAG pipelines on the side, and spend spare time on data-driven side projects. Currently working as a junior software developer, with my day-to-day split between C#, .NET 8, SQL Server, Python and FastAPI.
+I'm a computer engineer (Class of 2026) who builds backend systems and thinks about security from the first line of code. I work mostly with **C#, Node.js and Go**, design projects around layered architecture, SOLID and OOP, and I like problems where networking, cryptography and AI meet.
+
+My graduation project, **Cipher**, an end-to-end encrypted peer-to-peer messaging app, was published in the *International Journal of Advanced Networking and Applications*.
 
 </td></tr>
 </table>
@@ -34,9 +41,9 @@ I build backend systems in C# and .NET, tinker with AI/ML and RAG pipelines on t
 
 ### 02 · Currently
 
-&nbsp;&nbsp;**◆ Building** — [Cipher](#), a personal side project, alongside a few smaller ones
-&nbsp;&nbsp;**◆ Interned at** — Atia Software (development) & Çetin Group (IT / network management)
-&nbsp;&nbsp;**◆ Open to** — backend, AI-adjacent roles, and open-source collaboration
+&nbsp;&nbsp;**◆ Looking for** — junior backend / software engineering roles, open to AI-adjacent positions<br>
+&nbsp;&nbsp;**◆ Interned at** — Çetin Group (ESP32 firmware, IT infrastructure) · Atia Software (full-stack, PHP & MySQL)<br>
+&nbsp;&nbsp;**◆ Building** — small, well-tested tools: a C++/Qt desktop app with AI chat, a parser-based calculator, and this [portfolio](https://www.miracdeprem.com)
 
 </td></tr>
 </table>
@@ -51,33 +58,37 @@ I build backend systems in C# and .NET, tinker with AI/ML and RAG pipelines on t
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-1B4A72?style=flat-square&logo=csharp&logoColor=EAEFF3)
-![.NET 8](https://img.shields.io/badge/.NET_8-1B4A72?style=flat-square&logo=dotnet&logoColor=EAEFF3)
-![Python](https://img.shields.io/badge/Python-1B4A72?style=flat-square&logo=python&logoColor=EAEFF3)
+![C#](https://img.shields.io/badge/C%23-1B4A72?style=flat-square&logo=dotnet&logoColor=EAEFF3)
 ![Go](https://img.shields.io/badge/Go-1B4A72?style=flat-square&logo=go&logoColor=EAEFF3)
+![TypeScript](https://img.shields.io/badge/TypeScript-1B4A72?style=flat-square&logo=typescript&logoColor=EAEFF3)
+![Python](https://img.shields.io/badge/Python-1B4A72?style=flat-square&logo=python&logoColor=EAEFF3)
+![C++](https://img.shields.io/badge/C++-1B4A72?style=flat-square&logo=cplusplus&logoColor=EAEFF3)
 ![PHP](https://img.shields.io/badge/PHP-1B4A72?style=flat-square&logo=php&logoColor=EAEFF3)
+![SQL](https://img.shields.io/badge/SQL-1B4A72?style=flat-square&logo=postgresql&logoColor=EAEFF3)
 
 </td>
 <td width="33%" valign="top">
 
-**Frameworks & data**
+**Backend, web & mobile**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-5FB4E5?style=flat-square&logo=fastapi&logoColor=0B2545)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5FB4E5?style=flat-square&logo=dotnet&logoColor=0B2545)
+![Node.js](https://img.shields.io/badge/Node.js-5FB4E5?style=flat-square&logo=nodedotjs&logoColor=0B2545)
+![Next.js](https://img.shields.io/badge/Next.js-5FB4E5?style=flat-square&logo=nextdotjs&logoColor=0B2545)
 ![React](https://img.shields.io/badge/React-5FB4E5?style=flat-square&logo=react&logoColor=0B2545)
 ![Flutter](https://img.shields.io/badge/Flutter-5FB4E5?style=flat-square&logo=flutter&logoColor=0B2545)
-![SQL Server](https://img.shields.io/badge/SQL_Server-5FB4E5?style=flat-square&logo=microsoftsqlserver&logoColor=0B2545)
+![SignalR](https://img.shields.io/badge/SignalR-5FB4E5?style=flat-square&logo=dotnet&logoColor=0B2545)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5FB4E5?style=flat-square&logo=postgresql&logoColor=0B2545)
 ![MySQL](https://img.shields.io/badge/MySQL-5FB4E5?style=flat-square&logo=mysql&logoColor=0B2545)
-![SQLite](https://img.shields.io/badge/SQLite-5FB4E5?style=flat-square&logo=sqlite&logoColor=0B2545)
 
 </td>
 <td width="33%" valign="top">
 
-**AI & tools**
+**Security, AI & tools**
 
-![LLM & RAG](https://img.shields.io/badge/LLM_%26_RAG-F2A65A?style=flat-square&logo=openai&logoColor=0B2545)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-F2A65A?style=flat-square&logo=pytorch&logoColor=0B2545)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-F2A65A?style=flat-square&logo=tryhackme&logoColor=0B2545)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-F2A65A?style=flat-square&logo=kalilinux&logoColor=0B2545)
+![Cryptography](https://img.shields.io/badge/Cryptography-F2A65A?style=flat-square&logo=letsencrypt&logoColor=0B2545)
+![WebRTC](https://img.shields.io/badge/WebRTC-F2A65A?style=flat-square&logo=webrtc&logoColor=0B2545)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F2A65A?style=flat-square&logo=scikitlearn&logoColor=0B2545)
+![Ollama / Claude API](https://img.shields.io/badge/LLM_APIs-F2A65A?style=flat-square&logo=anthropic&logoColor=0B2545)
 ![Git](https://img.shields.io/badge/Git-F2A65A?style=flat-square&logo=git&logoColor=0B2545)
 ![Linux](https://img.shields.io/badge/Linux-F2A65A?style=flat-square&logo=linux&logoColor=0B2545)
 
@@ -87,101 +98,116 @@ I build backend systems in C# and .NET, tinker with AI/ML and RAG pipelines on t
 
 <br>
 
-### 04 · Projects
+### 04 · Selected Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**📚 Deprem Book Store**
+**🔐 Cipher** &nbsp;<sub>graduation project · published</sub>
 <br>
-An e-commerce platform for book sales, built on the MVC architecture.
+End-to-end encrypted P2P messaging. A Go networking and crypto core connects over WebRTC, falls back to UDP and then to an encrypted relay, and is bridged to Flutter with Gomobile.
 <br>
-`C#` `ASP.NET MVC`
+`Go` `Flutter` `WebRTC`
 <br>
-→ [github.com/mrcdprm/Deprem](https://github.com/mrcdprm/Deprem)
+→ [project page](https://www.miracdeprem.com/projects/cipher) · [paper (DOI)](https://doi.org/10.35444/IJANA.2026.18210)
 
 </td>
 <td width="50%" valign="top">
 
-**🕵️ Casus Oyunu (Spy Game)**
+**💬 Dating App** &nbsp;<sub>desktop · downloadable</sub>
 <br>
-A web-based interactive game application built with the MVC design pattern.
+C++/Qt 6 app that ranks profiles by a compatibility score; matched characters reply in their own personality via Ollama or the Claude API. Argon2id password hashing, DPAPI-encrypted API key, unit tests.
 <br>
-`C#` `ASP.NET MVC`
+`C++20` `Qt 6` `SQLite` `libsodium`
 <br>
-→ [github.com/mrcdprm/casus-oyunu](https://github.com/mrcdprm/casus-oyunu)
+→ [repo](https://github.com/MrcDprm/dating-app) · [download](https://github.com/MrcDprm/dating-app/releases/latest)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**✅ ToDoApp Desktop**
+**🧮 Advanced Calculator** &nbsp;<sub>desktop · downloadable</sub>
 <br>
-A cross-platform desktop task manager built to sharpen daily productivity.
+Standard and scientific calculator with a hand-written recursive descent parser instead of <code>eval()</code>. History, memory keys, themes, Windows-style shortcuts, 17 unit tests.
 <br>
-`TypeScript`
+`Python` `Tkinter` `unittest`
 <br>
-→ [github.com/mrcdprm/ToDoApp-Desktop](https://github.com/mrcdprm/ToDoApp-Desktop)
+→ [repo](https://github.com/MrcDprm/advanced-calculator) · [download](https://github.com/MrcDprm/advanced-calculator/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-**🐺 Wolf Sheep Binaire**
+**🐑 Sheep & Wolf** &nbsp;<sub>mobile game</sub>
 <br>
-A logic-based simulation exploring algorithmic decision rules.
+Binairo/Takuzu logic puzzle with its own generator, validator and solver: 400 campaign levels from 6×6 to 12×12, a daily puzzle and a no-hints mode.
 <br>
-`TypeScript`
+`React Native` `Expo` `Zustand` `Firebase`
 <br>
-→ [github.com/mrcdprm/wolf-sheep-binaire](https://github.com/mrcdprm/wolf-sheep-binaire)
+→ [repo](https://github.com/MrcDprm/wolf-sheep-binaire)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Social Media Ad Analytics** &nbsp;<sub>machine learning</sub>
+<br>
+Compares KNN, SVM, Logistic Regression and MLP on ad-conversion data, tunes KNN with GridSearchCV and k-fold CV, and serves live predictions in a bilingual Streamlit app.
+<br>
+`Python` `scikit-learn` `Streamlit`
+<br>
+→ [repo](https://github.com/MrcDprm/social-network-ads-classification)
+
+</td>
+<td width="50%" valign="top">
+
+**✅ AI To-Do App** &nbsp;<sub>desktop</sub>
+<br>
+Electron task manager that turns a goal into a 5-step plan with Gemini (schema-validated JSON), syncs tasks in real time with Firestore and sends deadline notifications.
+<br>
+`TypeScript` `Electron` `React` `Firebase`
+<br>
+→ [repo](https://github.com/MrcDprm/ToDoApp-Desktop)
 
 </td>
 </tr>
 </table>
 
+<div align="center"><sub>All 12 projects, with problem → solution → outcome write-ups: <a href="https://www.miracdeprem.com/projects">miracdeprem.com/projects</a></sub></div>
+
 <br>
 
-### 05 · Stats
+### 05 · Publication
+
+> **Cipher: An End-to-End Encrypted Peer-to-Peer Instant Mobile Messaging System**<br>
+> **M. Deprem**, E. A. Koca, A. A. Süzen · *International Journal of Advanced Networking and Applications (IJANA)*, Vol. 18, Issue 2, pp. 7461–7466, 2026<br>
+> [doi.org/10.35444/IJANA.2026.18210](https://doi.org/10.35444/IJANA.2026.18210)
+
+<br>
+
+### 06 · Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcdprm&theme=2077" height="180em" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcdprm&theme=2077" height="180em" alt="Most Commited Language"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcdprm&theme=2077" height="180em" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcdprm&theme=2077" height="180em" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcdprm&theme=github_dark" height="170em" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcdprm&theme=github_dark" height="170em" alt="Most committed languages"/>
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=mrcdprm&background=0B2545&ring=5FB4E5&fire=F2A65A&currStreakLabel=5FB4E5&sideLabels=EAEFF3&currStreakNum=EAEFF3&sideNums=EAEFF3&dates=EAEFF3&border=1B4A72&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mrcdprm&background=0B2545&ring=5FB4E5&fire=F2A65A&currStreakLabel=5FB4E5&sideLabels=EAEFF3&currStreakNum=EAEFF3&sideNums=EAEFF3&dates=EAEFF3&border=1B4A72&hide_border=false" alt="GitHub streak" />
 </div>
 
 <br>
-
-### 06 · Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 <br>
 
-### 07 · About Me
-
-```yaml
-Name: Mirac Deprem
-Role: Junior Software Developer
-Education: BSc Computer Engineering (Graduated) — Isparta University of Applied Sciences
-Focus: Software Development & AI
-Location: Istanbul, Turkey
-```
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B4A72,100:0B2545&section=footer" width="100%"/>
-
-</div>
