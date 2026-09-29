@@ -8,7 +8,7 @@
 
 <br>
 
-<sub>Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences (2026)</sub>
+Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences (2026)
 
 <br><br>
 
