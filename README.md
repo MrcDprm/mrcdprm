@@ -175,7 +175,7 @@ Electron task manager that turns a goal into a 5-step plan with Gemini (schema-v
 </tr>
 </table>
 
-<div align="center"><sub>All 12 projects, with problem → solution → outcome write-ups: <a href="https://www.miracdeprem.com/projects">miracdeprem.com/projects</a></sub></div>
+<div align="center"><sub>All projects, with problem → solution → outcome write-ups: <a href="https://www.miracdeprem.com/projects">miracdeprem.com/projects</a></sub></div>
 
 <br>
 
