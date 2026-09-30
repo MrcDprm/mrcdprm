@@ -1,0 +1,30 @@
+name: Purge README Image Cache
+
+# GitHub, README'deki dış görselleri (streak, istatistik kartları) Camo proxy'sinde
+# önbelleğe alır ve bazen günlerce eski hâlini gösterir. Bu iş akışı README'deki
+# tüm Camo linklerini düzenli olarak temizler, böylece kartlar güncel kalır.
+
+on:
+  schedule:
+    - cron: "15 */4 * * *"   # 4 saatte bir (UTC)
+  workflow_dispatch:           # Actions sekmesinden elle de tetiklenebilir
+
+permissions:
+  contents: read
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Purge Camo cache for README images
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api "repos/${{ github.repository }}/readme" \
+            -H "Accept: application/vnd.github.html" \
+            | grep -o 'https://camo.githubusercontent.com/[^"]*' \
+            | sort -u \
+            | while read -r url; do
+                curl -s -o /dev/null -w "%{http_code} ${url:0:80}...\n" -X PURGE "$url"
+              done
