@@ -43,7 +43,7 @@ My graduation project, **Cipher**, an end-to-end encrypted peer-to-peer messagin
 
 &nbsp;&nbsp;**◆ Looking for** — junior backend / software engineering roles, open to AI-adjacent positions<br>
 &nbsp;&nbsp;**◆ Interned at** — Çetin Group (ESP32 firmware, IT infrastructure) · Atia Software (full-stack, PHP & MySQL)<br>
-&nbsp;&nbsp;**◆ Building** — small, well-tested tools: a C++/Qt desktop app with AI chat, a parser-based calculator, and this [portfolio](https://www.miracdeprem.com)
+&nbsp;&nbsp;**◆ Building** — 16 small, well-tested apps in Python, JavaScript, Java and C++, currently a Java/JavaFX banking app; all of them are on my [portfolio](https://www.miracdeprem.com/projects)
 
 </td></tr>
 </table>
@@ -115,37 +115,61 @@ End-to-end encrypted P2P messaging. A Go networking and crypto core connects ove
 </td>
 <td width="50%" valign="top">
 
-**💬 Dating App** &nbsp;<sub>desktop · downloadable</sub>
+**🗝️ Password Vault** &nbsp;<sub>desktop · downloadable</sub>
 <br>
-C++/Qt 6 app that ranks profiles by a compatibility score; matched characters reply in their own personality via Ollama or the Claude API. Argon2id password hashing, DPAPI-encrypted API key, unit tests.
+Password manager with one encrypted vault file: Argon2id key derivation, XChaCha20-Poly1305, atomic saves and wiped key memory. Password health, k-anonymity breach check, 2FA codes and browser CSV import.
 <br>
-`C++20` `Qt 6` `SQLite` `libsodium`
+`C++` `Qt` `libsodium`
 <br>
-→ [repo](https://github.com/MrcDprm/dating-app) · [download](https://github.com/MrcDprm/dating-app/releases/latest)
+→ [repo](https://github.com/MrcDprm/security-app) · [download](https://github.com/MrcDprm/security-app/releases/latest)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧮 Advanced Calculator** &nbsp;<sub>desktop · downloadable</sub>
+**🏥 Hospital Manager** &nbsp;<sub>desktop · downloadable</sub>
 <br>
-Standard and scientific calculator with a hand-written recursive descent parser instead of <code>eval()</code>. History, memory keys, themes, Windows-style shortcuts, 17 unit tests.
+Clinic management with role-based sign-in for admins, receptionists and doctors. Conflict-free appointments, a weekly calendar, examinations with prescription PDFs, and reports with CSV export.
 <br>
-`Python` `Tkinter` `unittest`
+`C++` `Qt` `SQLite`
 <br>
-→ [repo](https://github.com/MrcDprm/advanced-calculator) · [download](https://github.com/MrcDprm/advanced-calculator/releases/latest)
+→ [repo](https://github.com/MrcDprm/hospital-management-system) · [download](https://github.com/MrcDprm/hospital-management-system/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-**🐑 Sheep & Wolf** &nbsp;<sub>mobile game</sub>
+**❓ Quiz App** &nbsp;<sub>web · live</sub>
 <br>
-Binairo/Takuzu logic puzzle with its own generator, validator and solver: 400 campaign levels from 6×6 to 12×12, a daily puzzle and a no-hints mode.
+Quiz platform with five school levels, a software track, a daily question and generated questions. Answers stay on the server behind encrypted single-use tokens, so the quiz can't be cheated from dev tools.
 <br>
-`React Native` `Expo` `Zustand` `Firebase`
+`JavaScript` `Vercel Functions`
 <br>
-→ [repo](https://github.com/MrcDprm/wolf-sheep-binaire)
+→ [repo](https://github.com/MrcDprm/quiz-app) · [live demo](https://quiz.miracdeprem.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 Dating App** &nbsp;<sub>desktop · downloadable</sub>
+<br>
+Ranks profiles by a compatibility score; matched characters reply in their own personality via Ollama or the Claude API. Argon2id password hashing, DPAPI-encrypted API key, unit tests.
+<br>
+`C++` `Qt` `SQLite` `LLM APIs`
+<br>
+→ [repo](https://github.com/MrcDprm/dating-app) · [download](https://github.com/MrcDprm/dating-app/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+**🌤️ Weather App** &nbsp;<sub>web · live</sub>
+<br>
+Searches cities and districts in Turkish from two open sources at once, shows current weather, a 24-hour SVG chart and a 5-day forecast. No framework, no API key, no server.
+<br>
+`JavaScript` `HTML` `CSS`
+<br>
+→ [repo](https://github.com/MrcDprm/weather-app) · [live demo](https://weather.miracdeprem.com)
 
 </td>
 </tr>
@@ -163,13 +187,13 @@ Compares KNN, SVM, Logistic Regression and MLP on ad-conversion data, tunes KNN 
 </td>
 <td width="50%" valign="top">
 
-**✅ AI To-Do App** &nbsp;<sub>desktop</sub>
+**🐑 Sheep & Wolf** &nbsp;<sub>mobile game</sub>
 <br>
-Electron task manager that turns a goal into a 5-step plan with Gemini (schema-validated JSON), syncs tasks in real time with Firestore and sends deadline notifications.
+Binairo/Takuzu logic puzzle with its own generator, validator and solver: 400 campaign levels from 6×6 to 12×12, a daily puzzle and a no-hints mode.
 <br>
-`TypeScript` `Electron` `React` `Firebase`
+`React Native` `Expo` `Firebase`
 <br>
-→ [repo](https://github.com/MrcDprm/ToDoApp-Desktop)
+→ [repo](https://github.com/MrcDprm/wolf-sheep-binaire)
 
 </td>
 </tr>
