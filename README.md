@@ -43,7 +43,7 @@ My graduation project, **Cipher**, an end-to-end encrypted peer-to-peer messagin
 
 &nbsp;&nbsp;**◆ Looking for** — junior backend / software engineering roles, open to AI-adjacent positions<br>
 &nbsp;&nbsp;**◆ Interned at** — Çetin Group (ESP32 firmware, IT infrastructure) · Atia Software (full-stack, PHP & MySQL)<br>
-&nbsp;&nbsp;**◆ Building** — 16 small, well-tested apps in Python, JavaScript, Java and C++, currently a Java/JavaFX banking app; all of them are on my [portfolio](https://www.miracdeprem.com/projects)
+&nbsp;&nbsp;**◆ Building** — web, desktop, mobile and AI projects, each tested and live or downloadable; the latest is a quiz you can play with friends in real time, with AI questions checked by a second model. All of them are on my [portfolio](https://www.miracdeprem.com/projects)
 
 </td></tr>
 </table>
@@ -128,22 +128,46 @@ Password manager with one encrypted vault file: Argon2id key derivation, XChaCha
 <tr>
 <td width="50%" valign="top">
 
-**🏥 Hospital Manager** &nbsp;<sub>desktop · downloadable</sub>
+**📦 Zarf** &nbsp;<sub>web + CLI · live</sub>
 <br>
-Clinic management with role-based sign-in for admins, receptionists and doctors. Conflict-free appointments, a weekly calendar, examinations with prescription PDFs, and reports with CSV export.
+End-to-end encrypted file sharing: files are encrypted on the device and the key stays in the part of the link after `#`, so the server never sees it. Send a link, request files, or send with a short code, in the browser or from the command line.
 <br>
-`C++` `Qt` `SQLite`
+`Go` `TypeScript` `WebRTC`
 <br>
-→ [repo](https://github.com/MrcDprm/hospital-management-system) · [download](https://github.com/MrcDprm/hospital-management-system/releases/latest)
+→ [repo](https://github.com/MrcDprm/zarf-file-share) · [live demo](https://zarf.miracdeprem.com)
+
+</td>
+<td width="50%" valign="top">
+
+**🕵️ KVKK Document Assistant** &nbsp;<sub>AI · live</sub>
+<br>
+Ask an AI model about documents full of Turkish personal data without sending that data to it. Names, ID numbers, IBANs and more are masked by rules plus a Turkish BERT model I trained; long documents go through RAG, and the real values are restored only on the server.
+<br>
+`Python` `FastAPI` `ONNX`
+<br>
+→ [repo](https://github.com/MrcDprm/kvkk-document-assistant) · [live demo](https://kvkk.miracdeprem.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎬 Seans** &nbsp;<sub>web · live</sub>
+<br>
+Cinema booking with a live seat map, seat holds that expire, Stripe payments, signed QR tickets and a door check screen for staff.
+<br>
+`React` `Express` `PostgreSQL`
+<br>
+→ [repo](https://github.com/MrcDprm/movie-reservation-system) · [live demo](https://seans.miracdeprem.com)
 
 </td>
 <td width="50%" valign="top">
 
 **❓ Quiz App** &nbsp;<sub>web · live</sub>
 <br>
-Quiz platform with five school levels, a software track, a daily question and generated questions. Answers stay on the server behind encrypted single-use tokens, so the quiz can't be cheated from dev tools.
+Quiz with categories and easy/medium/hard levels. Play with friends using a room code on a Node.js room server, with AI-written questions checked by a second model. Answers stay on the server, so the quiz can't be cheated from dev tools.
 <br>
-`JavaScript` `Vercel Functions`
+`JavaScript` `Node.js` `Vercel Functions`
 <br>
 → [repo](https://github.com/MrcDprm/quiz-app) · [live demo](https://quiz.miracdeprem.com)
 
@@ -152,48 +176,24 @@ Quiz platform with five school levels, a software track, a daily question and ge
 <tr>
 <td width="50%" valign="top">
 
-**💬 Dating App** &nbsp;<sub>desktop · downloadable</sub>
+**📚 Sahaf** &nbsp;<sub>web · live</sub>
 <br>
-Ranks profiles by a compatibility score; matched characters reply in their own personality via Ollama or the Claude API. Argon2id password hashing, DPAPI-encrypted API key, unit tests.
+Online bookshop for public-domain classics in its own cover series, with every cover drawn by the app. Stripe checkout, bulk orders for schools, an admin panel and full Turkish/English support.
 <br>
-`C++` `Qt` `SQLite` `LLM APIs`
+`C#` `ASP.NET Core` `PostgreSQL`
 <br>
-→ [repo](https://github.com/MrcDprm/dating-app) · [download](https://github.com/MrcDprm/dating-app/releases/latest)
+→ [repo](https://github.com/MrcDprm/sahaf-bookstore) · [live demo](https://sahaf.miracdeprem.com)
 
 </td>
 <td width="50%" valign="top">
 
-**🌤️ Weather App** &nbsp;<sub>web · live</sub>
+**🎭 Spy Game** &nbsp;<sub>web · live</sub>
 <br>
-Searches cities and districts in Turkish from two open sources at once, shows current weather, a 24-hour SVG chart and a 5-day forecast. No framework, no API key, no server.
+Real-time party game for 3–12 players, each on their own phone: one player is the spy who doesn't know the location. Rooms, roles and voting run over SignalR with Redis.
 <br>
-`JavaScript` `HTML` `CSS`
+`C#` `SignalR` `Redis`
 <br>
-→ [repo](https://github.com/MrcDprm/weather-app) · [live demo](https://weather.miracdeprem.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 Social Media Ad Analytics** &nbsp;<sub>machine learning</sub>
-<br>
-Compares KNN, SVM, Logistic Regression and MLP on ad-conversion data, tunes KNN with GridSearchCV and k-fold CV, and serves live predictions in a bilingual Streamlit app.
-<br>
-`Python` `scikit-learn` `Streamlit`
-<br>
-→ [repo](https://github.com/MrcDprm/social-network-ads-classification)
-
-</td>
-<td width="50%" valign="top">
-
-**🐑 Sheep & Wolf** &nbsp;<sub>mobile game</sub>
-<br>
-Binairo/Takuzu logic puzzle with its own generator, validator and solver: 400 campaign levels from 6×6 to 12×12, a daily puzzle and a no-hints mode.
-<br>
-`React Native` `Expo` `Firebase`
-<br>
-→ [repo](https://github.com/MrcDprm/wolf-sheep-binaire)
+→ [repo](https://github.com/MrcDprm/spy-game) · [live demo](https://spygame.miracdeprem.com)
 
 </td>
 </tr>
