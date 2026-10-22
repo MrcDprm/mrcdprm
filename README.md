@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/miracdeprem"><img src="https://img.shields.io/badge/LinkedIn-131a25?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZjVjNzdlIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"></a>&nbsp;
 <a href="https://www.miracdeprem.com"><img src="https://img.shields.io/badge/miracdeprem.com-131a25?style=for-the-badge&logo=googlechrome&logoColor=f5c77e" alt="Website"></a>&nbsp;
 <a href="mailto:mrcdprmm@hotmail.com"><img src="https://img.shields.io/badge/Email-131a25?style=for-the-badge&logo=maildotru&logoColor=f5c77e" alt="Email"></a>&nbsp;
-<a href="https://www.miracdeprem.com/cv"><img src="https://img.shields.io/badge/CV-131a25?style=for-the-badge&logo=readdotcv&logoColor=f5c77e" alt="CV"></a>
+<a href="https://www.miracdeprem.com/api/cv/view?lang=en"><img src="https://img.shields.io/badge/CV-131a25?style=for-the-badge&logo=readdotcv&logoColor=f5c77e" alt="CV (PDF)"></a>
 
 <br>
 
