@@ -158,7 +158,7 @@ Real-time party game for 3–12 players, each on their own phone: one player is 
 
 ### 04 · Stats
 
-<!-- Kartlar: scripts/cards.py üretir, .github/workflows/cards.yml günde iki kez "cards" dalına yazar -->
+<!-- Kartlar: scripts/cards.py üretir, .github/workflows/cards.yml her saat "cards" dalına yazar -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-streak-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-streak-light.svg">

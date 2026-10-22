@@ -1,12 +1,12 @@
 name: Refresh Stat Cards
 
-# Streak, istatistik ve dil kartlarını günde iki kez yeniden üretir.
+# Streak, istatistik ve dil kartlarını her saat yeniden üretir.
 # Kartlar main'e değil ayrı "cards" dalına yazılır: main'de bot commit'i olmaz,
 # bot katkıda bulunanlar listesine girmez, katkı tablosuna da sayılmaz.
 
 on:
   schedule:
-    - cron: "0 3,15 * * *"   # 06:00 ve 18:00 (İstanbul)
+    - cron: "17 * * * *"     # her saat (sadece cards dalı değişir, katkılara sayılmaz)
   workflow_dispatch:           # Actions sekmesinden elle de tetiklenebilir
   push:
     branches:

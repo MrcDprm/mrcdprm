@@ -17,6 +17,7 @@ import json
 import os
 import urllib.request
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 API = "https://api.github.com"
 FONT = "'Segoe UI',ui-sans-serif,-apple-system,Helvetica,Arial,sans-serif"
@@ -76,10 +77,12 @@ query($login:String!,$from:DateTime!,$to:DateTime!){
 """
 
 
-def fetch_days(user: str, token: str) -> tuple[list[tuple[dt.date, int]], int]:
+def fetch_days(user: str, token: str, tz: str) -> tuple[list[tuple[dt.date, int]], int]:
     """Hesap açıldığından bugüne her günün katkı sayısı ve toplam PR sayısı."""
     created = graphql("query($l:String!){user(login:$l){createdAt}}", {"l": user}, token)["user"]["createdAt"]
-    today = dt.datetime.now(dt.timezone.utc).date()
+    # "Bugün" kullanıcının saat dilimine göre: UTC'ye göre alınırsa gece yarısından sonraki
+    # katkılar (İstanbul'da 00:00-03:00) bir sonraki çalışmaya kadar sayılmaz
+    today = dt.datetime.now(ZoneInfo(tz)).date()
     days: dict[dt.date, int] = {}
     prs = 0
     # GraphQL tek sorguda en fazla 1 yıl veriyor; yıl yıl istenir
@@ -248,13 +251,14 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--user", required=True)
     ap.add_argument("--out", default="assets")
+    ap.add_argument("--tz", default="Europe/Istanbul")
     args = ap.parse_args()
 
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise SystemExit("GITHUB_TOKEN ortam değişkeni gerekli.")
 
-    days, prs = fetch_days(args.user, token)
+    days, prs = fetch_days(args.user, token, args.tz)
     total = sum(c for _, c in days)
     first = next((d for d, c in days if c), None)
     current, longest = streaks(days)
