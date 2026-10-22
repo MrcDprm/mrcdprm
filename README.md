@@ -1,104 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B2545,100:1B4A72&section=header" width="100%"/>
-
-<h1>Mirac Deprem</h1>
-
-<b>Software Developer &nbsp;·&nbsp; Web, Desktop & Mobile </b>
+<!-- Banner: scripts/banner/generate.py üretir (yerelde bir kez). Fotoğraf: assets/source/portrait.png -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Miraç Deprem, Full-stack Software Developer: animated terminal profile with a dot-drawn portrait">
+</picture>
 
 <br>
 
-Istanbul, Turkey &nbsp;·&nbsp; BSc Computer Engineering, Isparta University of Applied Sciences (2026)
+<a href="https://www.miracdeprem.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5C77E&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A64D0A&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul" alt="Full-stack Software Developer">
+  </picture>
+</a>
 
-<br><br>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miracdeprem)
-[![Website](https://img.shields.io/badge/miracdeprem.com-0B2545?style=for-the-badge&logo=googlechrome&logoColor=F2A65A)](https://www.miracdeprem.com)
-[![Email](https://img.shields.io/badge/Email-0B2545?style=for-the-badge&logo=maildotru&logoColor=EAEFF3)](mailto:mrcdprmm@hotmail.com)
-[![CV](https://img.shields.io/badge/CV-0B2545?style=for-the-badge&logo=readdotcv&logoColor=EAEFF3)](https://www.miracdeprem.com/cv)
-![Profile Views](https://komarev.com/ghpvc/?username=mrcdprm&color=5FB4E5&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/miracdeprem"><img src="https://img.shields.io/badge/LinkedIn-131a25?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZjVjNzdlIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.miracdeprem.com"><img src="https://img.shields.io/badge/miracdeprem.com-131a25?style=for-the-badge&logo=googlechrome&logoColor=f5c77e" alt="Website"></a>&nbsp;
+<a href="mailto:mrcdprmm@hotmail.com"><img src="https://img.shields.io/badge/Email-131a25?style=for-the-badge&logo=maildotru&logoColor=f5c77e" alt="Email"></a>&nbsp;
+<a href="https://www.miracdeprem.com/cv"><img src="https://img.shields.io/badge/CV-131a25?style=for-the-badge&logo=readdotcv&logoColor=f5c77e" alt="CV"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mrcdprm&color=f5c77e&style=flat&label=profile+views" alt="Profile views">
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr><td>
+<div align="center">
 
-### 01 · About
+### 01 · Stack
 
-I'm a computer engineer (Class of 2026) who builds backend systems and thinks about security from the first line of code. I work mostly with **C#, Node.js and Go**, design projects around layered architecture, SOLID and OOP, and I like problems where networking, cryptography and AI meet.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,js,py,cpp,java,php,react,nextjs,nodejs,express,fastapi,flutter,qt,postgres,mysql,redis,sqlite,docker,git,githubactions,linux,vercel&perline=13" alt="C#, .NET, Go, TypeScript, JavaScript, Python, C++, Java, PHP, React, Next.js, Node.js, Express, FastAPI, Flutter, Qt, PostgreSQL, MySQL, Redis, SQLite, Docker, Git, GitHub Actions, Linux, Vercel">
 
-My graduation project, **Cipher**, an end-to-end encrypted peer-to-peer messaging app, was published in the *International Journal of Advanced Networking and Applications*.
-
-</td></tr>
-</table>
+</div>
 
 <br>
 
-<table width="100%">
-<tr><td>
-
-### 02 · Currently
-
-&nbsp;&nbsp;**◆ Looking for** — junior backend / software engineering roles, open to AI-adjacent positions<br>
-&nbsp;&nbsp;**◆ Interned at** — Çetin Group (ESP32 firmware, IT infrastructure) · Atia Software (full-stack, PHP & MySQL)<br>
-&nbsp;&nbsp;**◆ Building** — web, desktop, mobile and AI projects, each tested and live or downloadable; the latest is a quiz you can play with friends in real time, with AI questions checked by a second model. All of them are on my [portfolio](https://www.miracdeprem.com/projects)
-
-</td></tr>
-</table>
-
-<br>
-
-### 03 · Stack
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-1B4A72?style=flat-square&logo=dotnet&logoColor=EAEFF3)
-![Go](https://img.shields.io/badge/Go-1B4A72?style=flat-square&logo=go&logoColor=EAEFF3)
-![TypeScript](https://img.shields.io/badge/TypeScript-1B4A72?style=flat-square&logo=typescript&logoColor=EAEFF3)
-![Python](https://img.shields.io/badge/Python-1B4A72?style=flat-square&logo=python&logoColor=EAEFF3)
-![C++](https://img.shields.io/badge/C++-1B4A72?style=flat-square&logo=cplusplus&logoColor=EAEFF3)
-![PHP](https://img.shields.io/badge/PHP-1B4A72?style=flat-square&logo=php&logoColor=EAEFF3)
-![SQL](https://img.shields.io/badge/SQL-1B4A72?style=flat-square&logo=postgresql&logoColor=EAEFF3)
-
-</td>
-<td width="33%" valign="top">
-
-**Backend, web & mobile**
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5FB4E5?style=flat-square&logo=dotnet&logoColor=0B2545)
-![Node.js](https://img.shields.io/badge/Node.js-5FB4E5?style=flat-square&logo=nodedotjs&logoColor=0B2545)
-![Next.js](https://img.shields.io/badge/Next.js-5FB4E5?style=flat-square&logo=nextdotjs&logoColor=0B2545)
-![React](https://img.shields.io/badge/React-5FB4E5?style=flat-square&logo=react&logoColor=0B2545)
-![Flutter](https://img.shields.io/badge/Flutter-5FB4E5?style=flat-square&logo=flutter&logoColor=0B2545)
-![SignalR](https://img.shields.io/badge/SignalR-5FB4E5?style=flat-square&logo=dotnet&logoColor=0B2545)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5FB4E5?style=flat-square&logo=postgresql&logoColor=0B2545)
-![MySQL](https://img.shields.io/badge/MySQL-5FB4E5?style=flat-square&logo=mysql&logoColor=0B2545)
-
-</td>
-<td width="33%" valign="top">
-
-**Security, AI & tools**
-
-![Cryptography](https://img.shields.io/badge/Cryptography-F2A65A?style=flat-square&logo=letsencrypt&logoColor=0B2545)
-![WebRTC](https://img.shields.io/badge/WebRTC-F2A65A?style=flat-square&logo=webrtc&logoColor=0B2545)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F2A65A?style=flat-square&logo=scikitlearn&logoColor=0B2545)
-![Ollama / Claude API](https://img.shields.io/badge/LLM_APIs-F2A65A?style=flat-square&logo=anthropic&logoColor=0B2545)
-![Git](https://img.shields.io/badge/Git-F2A65A?style=flat-square&logo=git&logoColor=0B2545)
-![Linux](https://img.shields.io/badge/Linux-F2A65A?style=flat-square&logo=linux&logoColor=0B2545)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 04 · Selected Projects
+### 02 · Selected Projects
 
 <table width="100%">
 <tr>
@@ -203,7 +146,7 @@ Real-time party game for 3–12 players, each on their own phone: one player is 
 
 <br>
 
-### 05 · Publication
+### 03 · Publication
 
 > **Cipher: An End-to-End Encrypted Peer-to-Peer Instant Mobile Messaging System**<br>
 > **M. Deprem**, E. A. Koca, A. A. Süzen · *International Journal of Advanced Networking and Applications (IJANA)*, Vol. 18, Issue 2, pp. 7461–7466, 2026<br>
@@ -211,27 +154,38 @@ Real-time party game for 3–12 players, each on their own phone: one player is 
 
 <br>
 
-### 06 · Stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcdprm&theme=github_dark" height="170em" alt="GitHub stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcdprm&theme=github_dark" height="170em" alt="Most committed languages"/>
-<br><br>
-<img src="https://streak-stats.demolab.com/?user=mrcdprm&background=0B2545&ring=5FB4E5&fire=F2A65A&currStreakLabel=5FB4E5&sideLabels=EAEFF3&currStreakNum=EAEFF3&sideNums=EAEFF3&dates=EAEFF3&border=1B4A72&hide_border=false" alt="GitHub streak" />
-</div>
-
-<br>
-
 <div align="center">
 
+### 04 · Stats
+
+<!-- Kartlar: scripts/cards.py üretir, .github/workflows/cards.yml günde iki kez "cards" dalına yazar -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-streak-light.svg">
+  <img src="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-streak-dark.svg" width="100%" alt="GitHub contribution streak">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-stats-light.svg">
+  <img src="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-stats-dark.svg" width="49%" alt="GitHub statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-languages-light.svg">
+  <img src="https://raw.githubusercontent.com/MrcDprm/mrcdprm/cards/card-languages-dark.svg" width="49%" alt="Most used languages">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mrcdprm/mrcdprm/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<sub>miracdeprem.com · Istanbul</sub>
+
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B4A72,100:0B2545&section=footer" width="100%"/>

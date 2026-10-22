@@ -1,0 +1,50 @@
+name: Refresh Stat Cards
+
+# Streak, istatistik ve dil kartlarını günde iki kez yeniden üretir.
+# Kartlar main'e değil ayrı "cards" dalına yazılır: main'de bot commit'i olmaz,
+# bot katkıda bulunanlar listesine girmez, katkı tablosuna da sayılmaz.
+
+on:
+  schedule:
+    - cron: "0 3,15 * * *"   # 06:00 ve 18:00 (İstanbul)
+  workflow_dispatch:           # Actions sekmesinden elle de tetiklenebilir
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/cards.py"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/cards.py --user "${{ github.repository_owner }}" --out dist
+
+      - name: Push cards to the cards branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: cards
+          build_dir: dist
+          commit_message: "chore(cards): refresh stat cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
