@@ -69,6 +69,8 @@ YEAR_QUERY = """
 query($login:String!,$from:DateTime!,$to:DateTime!){
   user(login:$login){
     contributionsCollection(from:$from,to:$to){
+      totalCommitContributions
+      totalIssueContributions
       totalPullRequestContributions
       contributionCalendar{ weeks{ contributionDays{ date contributionCount } } }
     }
@@ -77,25 +79,27 @@ query($login:String!,$from:DateTime!,$to:DateTime!){
 """
 
 
-def fetch_days(user: str, token: str, tz: str) -> tuple[list[tuple[dt.date, int]], int]:
-    """Hesap açıldığından bugüne her günün katkı sayısı ve toplam PR sayısı."""
+def fetch_days(user: str, token: str, tz: str) -> tuple[list[tuple[dt.date, int]], dict[str, int]]:
+    """Hesap açıldığından bugüne her günün katkı sayısı ve toplam commit/issue/PR sayıları."""
     created = graphql("query($l:String!){user(login:$l){createdAt}}", {"l": user}, token)["user"]["createdAt"]
     # "Bugün" kullanıcının saat dilimine göre: UTC'ye göre alınırsa gece yarısından sonraki
     # katkılar (İstanbul'da 00:00-03:00) bir sonraki çalışmaya kadar sayılmaz
     today = dt.datetime.now(ZoneInfo(tz)).date()
     days: dict[dt.date, int] = {}
-    prs = 0
+    totals = {"commits": 0, "issues": 0, "prs": 0}
     # GraphQL tek sorguda en fazla 1 yıl veriyor; yıl yıl istenir
     for year in range(int(created[:4]), today.year + 1):
         coll = graphql(YEAR_QUERY, {"login": user, "from": f"{year}-01-01T00:00:00Z",
                                     "to": f"{year}-12-31T23:59:59Z"}, token)["user"]["contributionsCollection"]
-        prs += coll["totalPullRequestContributions"]
+        totals["commits"] += coll["totalCommitContributions"]
+        totals["issues"] += coll["totalIssueContributions"]
+        totals["prs"] += coll["totalPullRequestContributions"]
         for week in coll["contributionCalendar"]["weeks"]:
             for d in week["contributionDays"]:
                 day = dt.date.fromisoformat(d["date"])
                 if day <= today:
                     days[day] = d["contributionCount"]
-    return sorted(days.items()), prs
+    return sorted(days.items()), totals
 
 
 def fetch_repos(user: str, token: str) -> list[dict]:
@@ -207,8 +211,8 @@ def stats_card(t: dict, user: str, tiles: list[tuple[str, str]]) -> str:
         f'<path d="M24 52H{w - 24}" stroke="{t["line"]}"/>',
     ]
     for i, (value, label) in enumerate(tiles):
-        x = 24 + (i % 3) * 152
-        y = 98 + (i // 3) * 66
+        x = 24 + (i % 4) * 114
+        y = 98 + (i // 4) * 66
         parts.append(f'<text x="{x}" y="{y}" font-size="25" font-weight="700" fill="{t["ink"]}">{esc(value)}</text>'
                      f'<text x="{x}" y="{y + 19}" font-size="11.5" fill="{t["muted"]}">{esc(label)}</text>')
     return frame(w, h, t, f"{user} GitHub statistics", "".join(parts))
@@ -258,7 +262,7 @@ def main() -> None:
     if not token:
         raise SystemExit("GITHUB_TOKEN ortam değişkeni gerekli.")
 
-    days, prs = fetch_days(args.user, token, args.tz)
+    days, totals = fetch_days(args.user, token, args.tz)
     total = sum(c for _, c in days)
     first = next((d for d, c in days if c), None)
     current, longest = streaks(days)
@@ -279,8 +283,10 @@ def main() -> None:
 
     tiles = [
         (fmt_num(total), "Total contributions"),
-        (fmt_num(this_year), f"Contributions in {days[-1][0].year}"),
-        (fmt_num(prs), "Pull requests"),
+        (fmt_num(this_year), f"{days[-1][0].year} contributions"),
+        (fmt_num(totals["commits"]), "Commits"),
+        (fmt_num(totals["prs"]), "Pull requests"),
+        (fmt_num(totals["issues"]), "Issues"),
         (fmt_num(profile["public_repos"]), "Public repos"),
         (fmt_num(stars), "Stars earned"),
         (fmt_num(profile["followers"]), "Followers"),
@@ -294,7 +300,8 @@ def main() -> None:
         (out / f"card-stats-{name}.svg").write_text(stats_card(t, args.user, tiles), encoding="utf-8")
         (out / f"card-languages-{name}.svg").write_text(languages_card(t, top, lang_total), encoding="utf-8")
 
-    print(f"katkı {total}, seri {current[0]} (en uzun {longest[0]}), PR {prs}, "
+    print(f"katkı {total}, seri {current[0]} (en uzun {longest[0]}), commit {totals['commits']}, "
+          f"issue {totals['issues']}, PR {totals['prs']}, "
           f"repo {profile['public_repos']}, yıldız {stars}, dil {len(lang_bytes)}")
 
 
