@@ -53,7 +53,7 @@ End-to-end encrypted P2P messaging. A Go networking and crypto core connects ove
 <br>
 `Go` `Flutter` `WebRTC`
 <br>
-→ [project page](https://www.miracdeprem.com/projects/cipher) · [paper (DOI)](https://doi.org/10.35444/IJANA.2026.18210)
+→ [project page](https://www.miracdeprem.com/projects/cipher-bitirme-projesi) · [paper (DOI)](https://doi.org/10.35444/IJANA.2026.18210)
 
 </td>
 <td width="50%" valign="top">
