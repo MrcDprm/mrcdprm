@@ -11,8 +11,8 @@
 
 <a href="https://www.miracdeprem.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5C77E&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A64D0A&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul" alt="Full-stack Software Developer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5C77E&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Now+building+Odd+Lives%2C+an+iPhone+walking+game;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A64D0A&center=true&vCenter=true&width=820&lines=Full-stack+Software+Developer;Web%2C+desktop+and+mobile+apps%2C+live+or+downloadable;Now+building+Odd+Lives%2C+an+iPhone+walking+game;Computer+Engineering%2C+Class+of+2026+%C2%B7+Istanbul" alt="Full-stack Software Developer">
   </picture>
 </a>
 
@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/miracdeprem"><img src="https://img.shields.io/badge/LinkedIn-131a25?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZjVjNzdlIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"></a>&nbsp;
 <a href="https://www.miracdeprem.com"><img src="https://img.shields.io/badge/miracdeprem.com-131a25?style=for-the-badge&logo=googlechrome&logoColor=f5c77e" alt="Website"></a>&nbsp;
 <a href="mailto:mrcdprmm@hotmail.com"><img src="https://img.shields.io/badge/Email-131a25?style=for-the-badge&logo=maildotru&logoColor=f5c77e" alt="Email"></a>&nbsp;
-<a href="https://www.miracdeprem.com/api/cv/view?lang=en"><img src="https://img.shields.io/badge/CV-131a25?style=for-the-badge&logo=readdotcv&logoColor=f5c77e" alt="CV (PDF)"></a>
+<a href="https://www.miracdeprem.com/api/cv/view?lang=en"><img src="https://img.shields.io/badge/CV-131a25?style=for-the-badge&logo=readdotcv&logoColor=f5c77e" alt="CV"></a>
 
 <br>
 
@@ -53,33 +53,46 @@ End-to-end encrypted P2P messaging. A Go networking and crypto core connects ove
 <br>
 `Go` `Flutter` `WebRTC`
 <br>
-→ [project page](https://www.miracdeprem.com/projects/cipher-bitirme-projesi) · [paper (DOI)](https://doi.org/10.35444/IJANA.2026.18210)
+→ [project page](https://www.miracdeprem.com/projects/cipher-bitirme-projesi) · [paper](https://doi.org/10.35444/IJANA.2026.18210)
 
 </td>
 <td width="50%" valign="top">
 
-**🗝️ Password Vault** &nbsp;<sub>desktop · downloadable</sub>
+**🐑 Sheep & Wolf** &nbsp;<sub>iPhone · App Store</sub>
 <br>
-Password manager with one encrypted vault file: Argon2id key derivation, XChaCha20-Poly1305, atomic saves and wiped key memory. Password health, k-anonymity breach check, 2FA codes and browser CSV import.
+Calm sheep and wolf logic puzzle for iPhone: 300 offline Takuzu levels with exactly one solution each, a daily puzzle generated on the phone from the date, and hints that explain the next step. No account, no ads.
 <br>
-`C++` `Qt` `libsodium`
+`React Native` `Expo` `TypeScript`
 <br>
-→ [repo](https://github.com/MrcDprm/security-app) · [download](https://github.com/MrcDprm/security-app/releases/latest)
+→ [repo](https://github.com/MrcDprm/wolf-sheep-binaire) · [App Store](https://apps.apple.com/app/koyun-kurt-sheep-wolf/id6829908940)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📦 Zarf** &nbsp;<sub>web + CLI · live</sub>
+**🔧 Tamirhane** &nbsp;<sub>web · live</sub>
 <br>
-End-to-end encrypted file sharing: files are encrypted on the device and the key stays in the part of the link after `#`, so the server never sees it. Send a link, request files, or send with a short code, in the browser or from the command line.
+Repair shop software: device check-in with a printable receipt, work orders, quotes the customer approves from a tracking link, parts stock and payments. Multi-tenant, with an MCP server that lets an AI assistant such as Claude look up work orders and stock.
 <br>
-`Go` `TypeScript` `WebRTC`
+`C#` `ASP.NET Core` `PostgreSQL`
 <br>
-→ [repo](https://github.com/MrcDprm/zarf-file-share) · [live demo](https://zarf.miracdeprem.com)
+→ [repo](https://github.com/MrcDprm/tamirhane-repair-tracker) · [live demo](https://tamirhane.miracdeprem.com)
 
 </td>
+<td width="50%" valign="top">
+
+**🏷️ LLM Issue Triage** &nbsp;<sub>GitHub Action · Marketplace</sub>
+<br>
+Triages new GitHub issues with an LLM: labels each one by type and priority with the repository's own labels, finds duplicates by embedding similarity and asks for missing bug details, all in one comment. Runs on a free Gemini key or any OpenAI-compatible API.
+<br>
+`TypeScript` `GitHub Actions` `Gemini API`
+<br>
+→ [repo](https://github.com/MrcDprm/issue-triage-action) · [Marketplace](https://github.com/marketplace/actions/llm-issue-triage)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🕵️ KVKK Document Assistant** &nbsp;<sub>AI · live</sub>
@@ -89,6 +102,17 @@ Ask an AI model about documents full of Turkish personal data without sending th
 `Python` `FastAPI` `ONNX`
 <br>
 → [repo](https://github.com/MrcDprm/kvkk-document-assistant) · [live demo](https://kvkk.miracdeprem.com)
+
+</td>
+<td width="50%" valign="top">
+
+**📦 Zarf** &nbsp;<sub>web + CLI · live</sub>
+<br>
+End-to-end encrypted file sharing: files are encrypted on the device and the key stays in the part of the link after `#`, so the server never sees it. Send a link, request files, or send with a short code, in the browser or from the command line.
+<br>
+`Go` `TypeScript` `WebRTC`
+<br>
+→ [repo](https://github.com/MrcDprm/zarf-file-share) · [live demo](https://zarf.miracdeprem.com)
 
 </td>
 </tr>
@@ -106,37 +130,13 @@ Cinema booking with a live seat map, seat holds that expire, Stripe payments, si
 </td>
 <td width="50%" valign="top">
 
-**❓ Quiz App** &nbsp;<sub>web · live</sub>
+**🗝️ Password Vault** &nbsp;<sub>desktop · downloadable</sub>
 <br>
-Quiz with categories and easy/medium/hard levels. Play with friends using a room code on a Node.js room server, with AI-written questions checked by a second model. Answers stay on the server, so the quiz can't be cheated from dev tools.
+Password manager with one encrypted vault file: Argon2id key derivation, XChaCha20-Poly1305, atomic saves and wiped key memory. Password health, k-anonymity breach check, 2FA codes and browser CSV import.
 <br>
-`JavaScript` `Node.js` `Vercel Functions`
+`C++` `Qt` `libsodium`
 <br>
-→ [repo](https://github.com/MrcDprm/quiz-app) · [live demo](https://quiz.miracdeprem.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📚 Sahaf** &nbsp;<sub>web · live</sub>
-<br>
-Online bookshop for public-domain classics in its own cover series, with every cover drawn by the app. Stripe checkout, bulk orders for schools, an admin panel and full Turkish/English support.
-<br>
-`C#` `ASP.NET Core` `PostgreSQL`
-<br>
-→ [repo](https://github.com/MrcDprm/sahaf-bookstore) · [live demo](https://sahaf.miracdeprem.com)
-
-</td>
-<td width="50%" valign="top">
-
-**🎭 Spy Game** &nbsp;<sub>web · live</sub>
-<br>
-Real-time party game for 3–12 players, each on their own phone: one player is the spy who doesn't know the location. Rooms, roles and voting run over SignalR with Redis.
-<br>
-`C#` `SignalR` `Redis`
-<br>
-→ [repo](https://github.com/MrcDprm/spy-game) · [live demo](https://spygame.miracdeprem.com)
+→ [repo](https://github.com/MrcDprm/security-app) · [download](https://github.com/MrcDprm/security-app/releases/latest)
 
 </td>
 </tr>
